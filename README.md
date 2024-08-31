@@ -1,6 +1,4 @@
-# NAMASTE REACT
-
-# NAMASTHE FOOD
+# HungerStop
 
 - Header
 - -logo {url}
